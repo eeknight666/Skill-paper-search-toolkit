@@ -67,7 +67,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/eeknight666/paper-search-toolkit.git
+git clone https://github.com/eeknight666/Skill-paper-search-toolkit.git
 cd paper-search-toolkit
 pip install -r requirements.txt
 ```
