@@ -142,6 +142,8 @@ SEMANTIC_SCHOLAR_API_KEY = "your-key"
       2024  USENIX Security [CCF-A]  [Prompt注入/安全]
       ...
 ```
+</details>
+
 ---
 
 ## 自定义 Excel 列
