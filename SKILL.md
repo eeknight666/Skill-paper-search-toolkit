@@ -1,3 +1,8 @@
+---
+name: paper-search-toolkit
+description: 多源学术论文搜索工具，支持安全/AI/硬件/软件等领域论文检索
+---
+
 # Paper Search Toolkit
 
 多源学术论文搜索工具。用户用中/英文描述需求，你负责执行搜索并展示结果。
